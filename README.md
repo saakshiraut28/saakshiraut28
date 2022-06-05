@@ -8,7 +8,7 @@
 <div class="para" align="justify">
   Currently, I'm pursuing my diploma in Computer Engineering. Some tech I enjoy working with include: React JS, Python, Django, MySQL, Android Development and Three JS. At present, I'm working on the MERN Stack [MongoDB + Express + React + Node]. I love to read books related to buzzing tech and astronomy. Also, I like to code as it improves my ability to think logically and get better at problem solving. Furthermore, I’m also traveller who wants to explore entire world.
 </div>
-________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________
 <div class="tools">
   <h3> :hammer_and_wrench: Languages and Tools : </h3><br />
 <div>
