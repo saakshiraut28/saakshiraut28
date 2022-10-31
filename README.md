@@ -1,16 +1,15 @@
 
 
-Hey there 👋
+<b> Hey there 👋</b>
 
 I’m Saakshi, a computer engineering student, AI | ML enthusiast, and a web designer/developer specializing in front-end development [React JS + Tailwind CSS]. I like to contribute to open-source projects. Python is my first programming language. 
 
 
 <br>
-<br>
 
 Wanna know more about me? [Here's the link to my portfolio.](https://www.saakshiraut28.me/)
 
-<br>
+
 <br>
 
 <div align="center">
@@ -24,8 +23,9 @@ Wanna know more about me? [Here's the link to my portfolio.](https://www.saakshi
 </div>
 
 <br>
-<br>
-## 💼 Skill Set
+
+<h2 align="center">👩‍💻 Skill Set</h2>
+
 
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
@@ -41,7 +41,7 @@ Wanna know more about me? [Here's the link to my portfolio.](https://www.saakshi
 
 
 <br>
-## 💼 Tools
+<h2 align="center">🛠️ Tools</h2>
 
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
@@ -50,22 +50,19 @@ Wanna know more about me? [Here's the link to my portfolio.](https://www.saakshi
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=4AB197)
 
-
-
+<br>
+<h2 align="center">📊 Github Stats</h2>
 
 <br>
-<br>
-## &#x1f4c8; GitHub Stats
 
-<br>
 
 <a href="https://github.com/saakshiraut28">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saakshiraut28&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/saakshiraut28">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=saakshiraut28&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
+  <div align="center" >
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=saakshiraut28&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saakshiraut28&layout=compact">
+  </div> 
+  <div align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saakshiraut28&)"><img src="https://activity-graph.herokuapp.com/graph?username=saakshiraut28&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+  </a>
 
 <br>
 <br>
