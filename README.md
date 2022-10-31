@@ -1,5 +1,7 @@
-
-
+<div align="center">
+<img src="BannerImage.gif" alt="Image" height="400px" />
+</div>
+<br>
 <b> Hey there 👋</b>
 
 I’m Saakshi, a computer engineering student, AI | ML enthusiast, and a web designer/developer specializing in front-end development [React JS + Tailwind CSS]. I like to contribute to open-source projects. Python is my first programming language. 
