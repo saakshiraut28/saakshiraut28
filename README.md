@@ -1,6 +1,4 @@
-<div align="center">
-<img src="BannerImage.gif" alt="Image" height="400px" />
-</div>
+
 <br>
 <b> Hey there 👋</b>
 
