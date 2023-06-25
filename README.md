@@ -1,7 +1,6 @@
-<!-- @format -->
-<center>
-<a href="https://www.saakshiraut28.me/"><img src='./assets/Github_head_image.png'></a>
-</center>
+
+![Github_Head_Image](https://raw.githubusercontent.com/saakshiraut28/saakshiraut28/main/assets/Github_head_image.png)
+
 <br>
 <b>Hello Human 👋,</b>
 <br>
@@ -102,5 +101,6 @@ Thanks for stopping by and checking out my GitHub profile. Feel free to explore 
 Wanna know more about me?
 <a href="https://www.saakshiraut28.me/">Checkout my Portfolio</a> ✨.
 </center>
+<br>
 <br>
 <hr>
