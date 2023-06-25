@@ -1,6 +1,6 @@
-
-![Github_Head_Image](https://raw.githubusercontent.com/saakshiraut28/saakshiraut28/main/assets/Github_head_image.png)
-
+<div align="center">
+  <img src='https://res.cloudinary.com/dtdsi5sev/image/upload/f_auto,q_auto/dispxkoky3t6vo5xoppf' alt="Head_Img"/>
+</div>
 <br>
 <b>Hello Human 👋,</b>
 <br>
