@@ -88,7 +88,7 @@ Wanna work with me or have an amazing idea to discuss? Feel free to send me a me
   </div> 
   <div align="center">
   
-  ![Saakshi Raut's Stats](https://github-readme-stats.vercel.app/api?username=saakshiraut28&show_icons=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=GaganpreetKaurKalsi&theme=light&hide_border=true&line_height=27&width=20)
+  ![Saakshi Raut's Stats](https://github-readme-stats.vercel.app/api?username=saakshiraut28&show_icons=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=saakshiraut28&theme=light&hide_border=true&line_height=27&width=20)
 
   </div>
 </a>
