@@ -74,8 +74,6 @@ Wanna work with me or have an amazing idea to discuss? Feel free to send me a me
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 <br>
-<br>
-
 <hr>
 <br>
 <h2 align="center">📊 Github Stats</h2>
