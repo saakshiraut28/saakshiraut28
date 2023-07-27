@@ -97,7 +97,7 @@ Wanna work with me or have an amazing idea to discuss? Feel free to send me a me
 Thanks for stopping by and checking out my GitHub profile. Feel free to explore my repositories and projects.
 <br>
 Wanna know more about me?
-<a href="https://www.saakshiraut28.me/">Checkout my Portfolio</a> ✨.
+<a href="https://saakshiraut.netlify.app">Checkout my Portfolio</a> ✨.
 </div>
 <br>
 <br>
