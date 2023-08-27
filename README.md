@@ -88,6 +88,7 @@ Wanna work with me or have an amazing idea to discuss? Feel free to send me a me
   
   ![Saakshi Raut's Stats](https://github-readme-stats.vercel.app/api?username=saakshiraut28&show_icons=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=saakshiraut28&theme=light&hide_border=true&line_height=27&width=20)
 
+![Saakshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saakshiraut28&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
   </div>
 </a>
 <br>
