@@ -1,6 +1,3 @@
-<div align="center">
-  <img src='https://res.cloudinary.com/dtdsi5sev/image/upload/f_auto,q_auto/dispxkoky3t6vo5xoppf' alt="Head_Img"/>
-</div>
 <br>
 <b>Hello Human 👋,</b>
 <br>
@@ -19,6 +16,11 @@ Wanna work with me or have an amazing idea to discuss? Feel free to send me a me
 <br><br>
 <a href="mailto:saakshiraut28@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
+<br>
+<hr>
+<br>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saakshiraut28&theme=gitdimmed"/></a></p>
+
 <br>
 <hr>
 <br>
