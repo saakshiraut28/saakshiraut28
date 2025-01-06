@@ -1,11 +1,11 @@
 <br>
 <b>Hello Human 👋,</b>
 <br>
-I’m Saakshi, a computer engineering student, tech enthusiast, and a web designer/developer specializing in front-end development. I like to contribute to open-source projects. Python is my first programming language. Currently, I'm working on a REST API based project.
+I’m Saakshi, a computer engineering student, tech enthusiast, and a web designer/developer specializing in front-end development. I like to contribute to open-source projects. Rust is my fav programming language. Currently, I'm working on a Web3 projects.
 <br>
 <br>
 <div align="center">
-I post about my latest learnings, accomplishments, and more on the following platforms. Be sure to connect with me ;)
+Let's Connect 🤝
 <br><br>
 <a  href="https://www.linkedin.com/in/saakshiraut-28200311" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/raut_saakshi" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
