@@ -1,8 +1,8 @@
 <br>
-Hi, I’m Saakshi, a full-stack Blockchain developer with 4 years of experience and over a year specializing in Web3 and building on Solana. I’m passionate about creating impactful decentralized applications and making Web3 concepts accessible through content creation, blogs, and developer advocacy. Website: <a href="https://www.saakshi.xyz/">saakshi.xyz</a>
+Hi, I’m Saakshi, a full-stack Blockchain developer with 4 years of experience and over a year specializing in Web3 and building on Solana. I’m passionate about creating impactful decentralized applications and making Web3 concepts accessible through content creation, blogs, and developer advocacy. Website: <a href="https://saakshiraut.vercel.app/">saakshi.xyz</a>
 <br>
 <br>
-<div align="center">
+<div align="left">
 I post about my latest learnings, accomplishments, and more on the following platforms. Be sure to connect with me ;)
 <br><br>
 <a  href="https://www.linkedin.com/in/saakshiraut-28200311" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -14,13 +14,6 @@ Wanna work with me or have an amazing idea to discuss? Feel free to send me a me
 <br><br>
 <a href="mailto:saakshiraut28@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
-<br>
-<hr>
-<br>
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saakshiraut28&theme=gitdimmed"/></a></p>
-
-<br>
-<hr>
 <br>
 <h2 align="center"> Tech Stack ⚙️</h2>
 <br>
@@ -61,11 +54,6 @@ Wanna work with me or have an amazing idea to discuss? Feel free to send me a me
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 <br>
-
-
-<br>
-<hr>
-<br>
 <h2 align="center">📊 Github Stats</h2>
 <br>
 <a href="https://github.com/saakshiraut28">
@@ -88,7 +76,8 @@ Wanna work with me or have an amazing idea to discuss? Feel free to send me a me
 Thanks for stopping by and checking out my GitHub profile. Feel free to explore my repositories and projects.
 <br>
 Wanna know more about me?
-<a href="https://saakshiraut.netlify.app">Checkout my Portfolio</a> ✨.
+<a href="https://saakshiraut.vercel.app/">Here's the link to my portfolio</a> ✨.
 </div>
 <br>
 <br>
+
